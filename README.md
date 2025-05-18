@@ -1,6 +1,6 @@
 # <center>LLM Spatial Reasoning: A Comprehensive Survey</center>
 
-<img src="assets/teaser.png" style=""></img>
+<img src="assets/teaser.png" style="display: block; width:90%; text-align: center; margin: 0 auto;"></img>
 
 ## 👋 About this survey
 
