@@ -2,7 +2,7 @@
 
 <img src="assets/teaser.png" style=""></img>
 
-## About this survey
+## 👋 About this survey
 
 Large Language Models (LLMs) have revolutionized AI with powerful reasoning and language capabilities, and their extension to visual and embodied tasks has opened new frontiers. *LLM-based spatial reasoning* refers to an LLM’s ability to understand and reason about spatial relationships, geometry, and physical layouts – a fundamental aspect of human cognition. This capability is crucial for tasks ranging from visual question answering about images to guiding robots through rooms. Despite the rapid progress in multimodal LLMs, spatial understanding remains a challenging frontier: recent studies show that even state-of-the-art models struggle with basic spatial concepts like **left vs. right** or **above vs. below**, often performing barely above random chance on controlled tests while humans nearly perfect them. In other words, today’s Vision-Language Models (VLMs) and multimodal LLMs still exhibit significant *spatial intelligence gaps*, sometimes ignoring visual layouts and relying on textual cues instead. This survey provides a structured review of the burgeoning literature (2023–2025) on LLM-based spatial reasoning. We define the area, summarize **recent works**, highlight key benchmarks, notable models, emerging themes, and discuss open problems and future directions.
 
