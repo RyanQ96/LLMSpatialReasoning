@@ -1,4 +1,4 @@
-<center><h1>LLM Spatial Reasoning: A Comprehensive Survey</h1></center>
+# <center>LLM Spatial Reasoning: A Comprehensive Survey</center>
 
 <img src="assets/teaser.png" style=""></img>
 
