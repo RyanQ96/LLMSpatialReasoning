@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-size: 30px; font-weight: bold; line-height: 50px;">LLM Spatial Reasoning: A Comprehensive Survey</h1>
+<center><h1>LLM Spatial Reasoning: A Comprehensive Survey</h1></center>
 
 <img src="assets/teaser.png" style=""></img>
 
